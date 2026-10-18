@@ -1,4 +1,4 @@
-# Welcome to Coho 👋
+# Welcome to Coho
 
 **Managed content infrastructure, branch-native.**
 
@@ -9,7 +9,7 @@ through environments such as `dev`, `qa` and `prod`, with a rollback at every st
 A new field and the forty pages that need it travel together: one branch, one review and
 one release, instead of a migration script and a hopeful deploy.
 
-## 🚀 Start here
+## Start here
 
 The quickest way in is **[coho-samples](https://github.com/coho-cms/coho-samples)**. Begin
 with **[Setting up a Next.js blog with the CLI](https://github.com/coho-cms/coho-samples/blob/HEAD/node/cli-next-blog/README.md)**,
@@ -29,7 +29,7 @@ uv tool install coho-cli      # or: pipx install coho-cli
 coho login
 ```
 
-## 🧭 What you'll find here
+## What you'll find here
 
 | Repository | What it is |
 |---|---|
@@ -42,7 +42,7 @@ coho login
 | [coho-management-sdk-python](https://github.com/coho-cms/coho-management-sdk-python) | Manage Coho from Python: projects, branches, content, releases and delivery keys. The library under the CLI |
 | [coho-sdk-spec](https://github.com/coho-cms/coho-sdk-spec) | The shared specification and test material every Coho SDK is built against |
 
-## 💡 The ideas in a minute
+## The ideas in a minute
 
 - **Branches are cheap, so use them.** A branch costs the same in a project of ten entries
   as in one of ten thousand. Make one for every change worth reviewing.
@@ -54,7 +54,7 @@ coho login
 - **Preview and production read the same way.** The same code reads a branch while you work
   and a release in production, with a different credential.
 
-## 🤝 Get involved
+## Get involved
 
 Found a step that didn't work, or want a sample for your framework? Open an issue on
 [coho-samples](https://github.com/coho-cms/coho-samples/issues). Samples for .NET and
